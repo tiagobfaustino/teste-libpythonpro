@@ -10,6 +10,7 @@ suportada versão 3 de python
 [![Build Status](https://travis-ci.com/tiagobfaustino/teste-libpythonpro.svg?branch=master)](https://travis-ci.com/tiagobfaustino/teste-libpythonpro)
 [![Updates](https://pyup.io/repos/github/tiagobfaustino/teste-libpythonpro/shield.svg)](https://pyup.io/repos/github/tiagobfaustino/teste-libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/tiagobfaustino/teste-libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/tiagobfaustino/teste-libpythonpro/)
+[![codecov](https://codecov.io/gh/tiagobfaustino/teste-libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/tiagobfaustino/teste-libpythonpro)
 
 Para instalar:
 '''console
